@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&pause=1000&center=true&vCenter=true&width=435&lines=I+learn+by+building+%E2%80%94+and+I+build+every+day.;Self-taught%2C+project-driven%2C+always+improving.;Learning+endlessly.+Building+constantly." alt="Typing SVG" /></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/darshyadav12?template=classic&isocalendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&config.timezone=Asia%2FCalcutta)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshyadav1976) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-yadav-0848b7252) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/darshyadav1976) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22531527) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DarshYadav007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshyadav1976@gmail.com) 
 
